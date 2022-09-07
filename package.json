@@ -1,0 +1,29 @@
+{
+  "name": "starter-template-for-nextjs-websites",
+  "version": "1.0.0",
+  "description": "This is a starter template for building websites with NextJS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hrk-berserker27/Starter-template-for-NextJS-website"
+  },
+  "keywords": [
+    "template",
+    "simple",
+    "easy-to-understand"
+  ],
+  "author": "Hritick Bhushan",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^12.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
